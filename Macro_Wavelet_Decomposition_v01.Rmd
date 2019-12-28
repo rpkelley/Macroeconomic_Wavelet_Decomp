@@ -332,3 +332,8 @@ The short term component is very active and can largely be considered to be "noi
 The key takeaway here is the consideration of the business cycle component. In other words, if the short term component is just noise, and the medium- and long-term components encompass larger trends that policymakers and business leaders have less control over, then the business cycle component is of the most relevance to those making strategy decisions.
 
 With that framework set, it's very interesting to note that, while Unemployment Rate data continues to appear strong and decreasing (see the original time series plot above), the business cycle wavelet component in Panel B appears to have already "turned" and is starting to increase. This could potentially be a leading indicator of macroeconomic weakness, which typically leads to decreased consumer spending.
+
+# Final Comment
+
+In other work not published here, I've also used wavelets to look at the decomposition of asset pricing factors, for example the betas resulting from Fama-French regressions. This work was inspired by this 2017 article from the Journal of Empirical Finance: [Timescale betas and the cross section of equity returns: Framework, application, and implications for interpreting the Fama–French factors
+](https://www.sciencedirect.com/science/article/abs/pii/S0927539817300051).
